@@ -2,7 +2,7 @@
 
 All persons or entities who have contributed or are contributing to the development of this project are listed here with their roles and contact information.
 
-For any questions, suggestions or bug reports, please refer to the [CONTRIBUTE.md](CONTRIBUTE.md) file and only contact the maintainers directly if none of the situations described therein applies to you.
+For any questions, suggestions or bug reports, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file and only contact the maintainers directly if none of the situations described therein applies to you.
 
 ## Active Maintainers
 
