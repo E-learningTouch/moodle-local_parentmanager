@@ -6,7 +6,7 @@ All notable changes to the `local_parentmanager` project will be documented in t
 
 ### Minor Updates
 
-- Licence and Copyright information add in js and mustache files
+- Licence and Copyright information in .js and .mustache files
 - fr folder deleted
 - french translation added in AMOS
 
@@ -23,5 +23,6 @@ All notable changes to the `local_parentmanager` project will be documented in t
 - **Cohort Association** page (`cohort.php`) dedicated to bulk assignment via cohorts.
 - Role assignment in User Context.
 - Basic Profile field population.
+
 
 
