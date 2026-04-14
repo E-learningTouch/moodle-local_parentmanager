@@ -2,4 +2,4 @@
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
-We don't have any contributors yet—maybe you'll be our first! :wink:
+- Parent role automatically created if doesn't yet exist - Special thanks to Mossaab Mohamed ali (https://github.com/mussaab)
